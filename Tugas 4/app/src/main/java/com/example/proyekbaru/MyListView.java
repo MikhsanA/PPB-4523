@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class MyListView extends AppCompatActivity {
     ListView listView;
-    public String bhs_program[] = {"prolog","C++","Pascal","Cobol","Perl","Algo L","Java","PHP","Python","HTMl","CSS"};
+    public String bhs_program[] = {"prolog","C++","Pascal","Cobol","Perl","Algo L","Java","PHP","Python","HTMl","CSS","JavaScript};
 
     Spinner combo;
 
