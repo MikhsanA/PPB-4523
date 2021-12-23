@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232099164060",
+    "project_id": "projectikhsan-e18a5",
+    "storage_bucket": "projectikhsan-e18a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232099164060:android:47dfb6b7f62d6de2d72259",
+        "android_client_info": {
+          "package_name": "com.example.tugas8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232099164060-o4u05sgp1a0v2870usnc88dqmjvms8ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTbFBIUnp1jXimN4laGXkq3TRHCrdBJos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232099164060-o4u05sgp1a0v2870usnc88dqmjvms8ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
