@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/dasar"
+    tools:context=".MainActivity">
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="50dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:text="Selamat Datang "
+        android:textSize="30dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textColor="@color/white"
+        android:text="Di Rumah Makan"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:text="Bahagia"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_height="wrap_content"/>
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="20dp"/>
+    <ImageView
+        android:layout_width="200dp"
+        android:src="@drawable/rumahmakan"
+        android:layout_gravity="center"
+        android:layout_height="200dp"/>
+    <View
+        android:layout_width="0dp"
+        android:layout_height="50dp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Selanjutnya"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:onClick="next"/>
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="50dp"/>
+
+
+
+
+
+
+
+</LinearLayout>
